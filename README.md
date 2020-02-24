@@ -3,12 +3,12 @@ Demostration of GraalVM for GoDaddy's Java Guild
 
 ## 1.0 Introduction
 GraalVM's features have quite a bit of implication and opportunities which one can delve.
-That said, this demo will only explore 3 areas:
+That said, this demo will only explore these areas:
 
 - Download/Installation Primer
 - Performance ByteCode Translation
-- JavaScript Embedding (Guest Language Embedding)
-- JavaScript Embedding (Guest Language Embedding)
+- Guest Language Embedded in Java (JavaScript called from Java)
+- Java called from Guest Language (JavaScript/NodeJS application calling Java)
 
 ## 2.0 Download/Installation
 - https://github.com/graalvm/graalvm-ce-builds/releases (very recently moved from https://github.com/oracle/graal/releases)
