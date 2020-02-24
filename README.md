@@ -13,10 +13,10 @@ That said, this demo will only explore these areas:
 ## 2.0 Download/Installation
 - https://github.com/graalvm/graalvm-ce-builds/releases (very recently moved from https://github.com/oracle/graal/releases)
 - `asdf` (`asdf-vm` / asdf Version Manager)
- - https://asdf-vm.com/#/ ... plays nice with the overlapping tools
- - https://github.com/vic/asdf-graalvm ... if have issues, response on PRs is quick
+  - https://asdf-vm.com/#/ ... plays nice with Graal's overlapping tools
+  - https://github.com/vic/asdf-graalvm ... if have issues, response on PRs is quick
 - `gu` another option... did not explore
-  -  https://www.graalvm.org/docs/reference-manual/install-components/
+  - https://www.graalvm.org/docs/reference-manual/install-components/
 
 ## 3.0 Running Java Faster... GraalVM's improved bytecode translation
 Demo:
